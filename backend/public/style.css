@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    Background: #fff;
+    color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+  }
+  .cHeading h1{
+    color:  rgba(0, 0, 0, 0.1);;
+  }
+  .footer {
+     bottom: 0px;
+     background-color: #333333;
+     color: var(--text-color);
+   }
+   .Social {
+    text-align: center;
+    color: white;
+  }
+  .Social a {
+    color: #3498db;
+    font-size: 24px;
+    margin: 10px;
+    text-decoration: none;
+  }
+  .Social a:hover {
+    color: #207CE5;
+  }
+  .intro {
+    color: #FFFFFF;
+  }
+  .copyright_footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  .copyright_footer a{
+    color: white;
+  }
+  .row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  .carousel-item img {
+    height: 375px; 
+    object-fit: cover;
+  }
+  .about{
+    background-color: navajowhite;
+  }
+  .card{
+    background-color: #1f618d;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+@media only screen and (max-width: 765px) {
+  .grid-container{
+    display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  } 
+}
+
+.grid-item {
+  color: #FFFFFF;
+}
+.card-body a{
+  color: #FFFFFF;
+}
+cardButton{
+  position: relative;
+  bottom: 0;
+}

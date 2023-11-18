@@ -1,0 +1,10 @@
+ [
+    { "cardTitle": "Basic Coding", "content": "Learn the fundamentals of coding and start building your own programs. Get ready to explore the exciting world of software development!" },
+
+    { "cardTitle": "HTML5", "content": "Learn the fundamentals of HTML and start building your own web pages Get ready to explore the world of web development" },
+
+    { "cardTitle": "CSS", "content": "Explore the essentials of CSS and enhance the style of your web pages. Get ready to add flair and creativity to your designs!" },
+    
+    { "cardTitle": "JavaScript", "content": "Master the basics of JavaScript and bring interactivity to your websites. Get ready to unleash the power of programming in the world of web development!" }
+  ]
+  
